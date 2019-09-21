@@ -2,10 +2,12 @@
 Author: Marc Staehli, 2019
 
 Main version:
-- 12 LED matrix units (MAX7 )
+- 12 LED matrix units (MAX7219)
 - 4 units left (yellow/green) showing exact time taken from NTP servers
 - 8 units right (blue) scrolling MQTT messages
 - PIR sensor activating display for 2 minutes after detection
+
+The data is coming from one of my other projects: ; I am using an Orange Pi Zero with Mosquitto as a MQTT broker.
 
 Print the box yourself: 
 
