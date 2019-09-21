@@ -8,7 +8,7 @@ Main version:
 - 8 units right (blue) scrolling MQTT messages
 - PIR sensor activating display for 2 minutes after detection
 
-The data is coming from one of my other projects: https://github.com/3KUdelta/Solar_WiFi_Weather_Station. I am using an Orange Pi Zero with Mosquitto as a MQTT broker.
+The data is coming from one of my other projects: Solar Weather Station: https://github.com/3KUdelta/Solar_WiFi_Weather_Station and my Crocodile Pool Sensor: https://github.com/3KUdelta/Crocodile-Solar-Pool-Sensor. I am using an Orange Pi Zero with Mosquitto as a MQTT broker.
 
 Print the box yourself: https://www.thingiverse.com/thing:2811071, https://www.thingiverse.com/thing:1374504
 
