@@ -12,3 +12,9 @@ Print the box yourself:
 [![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/IMG_3180.JPG)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
 
 [![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/LED_parola_MQTT_monitor.png)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
+
+[![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/IMG_3172.JPG)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
+
+[![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/IMG_3176.JPG)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
+
+[![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/IMG_3177.JPG)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
