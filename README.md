@@ -10,7 +10,7 @@ Main version:
 
 The data is coming from one of my other projects: https://github.com/3KUdelta/Solar_WiFi_Weather_Station. I am using an Orange Pi Zero with Mosquitto as a MQTT broker.
 
-Print the box yourself: 
+Print the box yourself: https://www.thingiverse.com/thing:2811071, https://www.thingiverse.com/thing:1374504
 
 [![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/IMG_3180.JPG)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
 
