@@ -13,7 +13,7 @@ The data is coming from some of my other projects: Solar Weather Station: https:
 
 Print the box yourself: https://www.thingiverse.com/thing:2811071, https://www.thingiverse.com/thing:1374504
 
-[![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/IMG_3180.JPG)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
+[![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/IMG_3175.mp4)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
 
 [![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/LED_parola_MQTT_monitor.png)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
 
