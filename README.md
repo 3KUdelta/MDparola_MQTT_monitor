@@ -16,7 +16,7 @@ Main version:
 The data is coming from some of my other projects: Solar Weather Station: https://github.com/3KUdelta/Solar_WiFi_Weather_Station and my Crocodile Pool Sensor: https://github.com/3KUdelta/Crocodile-Solar-Pool-Sensor. 
 I am using an Orange Pi Zero with Mosquitto as a MQTT broker.
 
-Print the box yourself: https://www.thingiverse.com/thing:2811071, https://www.thingiverse.com/thing:1374504
+Print the boxes yourself: https://www.thingiverse.com/thing:2811071, https://www.thingiverse.com/thing:1374504
 
 [![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/LED_parola_MQTT_monitor.png)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
 
