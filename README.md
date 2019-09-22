@@ -1,4 +1,4 @@
-# LED matrix MQTT monitor (MD Parola)
+# LED matrix MQTT monitor (MD_Parola)
 Author: Marc Staehli, 2019
 
 Main version:
@@ -7,6 +7,7 @@ Main version:
 - 4 units left (yellow/green) showing exact time taken from NTP servers
 - 8 units right (blue) scrolling MQTT messages
 - PIR sensor activating display for 2 minutes after detection
+- Using the MD_Parola libraries - thank you for this excellent work! (https://github.com/MajicDesigns/MD_Parola)
 
 The data is coming from some of my other projects: Solar Weather Station: https://github.com/3KUdelta/Solar_WiFi_Weather_Station and my Crocodile Pool Sensor: https://github.com/3KUdelta/Crocodile-Solar-Pool-Sensor. I am using an Orange Pi Zero with Mosquitto as a MQTT broker.
 
