@@ -3,7 +3,7 @@ Author: Marc Staehli, 2019
 
 Main version:
 - NodeMCU V3 - using WiFi to get NTP Time and connect to MQTT broker
-- 12 LED matrix units (MAX7219)--> 3 LED units FC16
+- 12 LED matrix units (MAX7219)--> 3 LED units FC16 (https://www.aliexpress.com/item/32648450356.html)
 - 4 units left (yellow/green) showing exact time taken from NTP servers
 - 8 units right (blue) scrolling MQTT messages
 - PIR sensor activating display for 2 minutes after detection
