@@ -257,6 +257,7 @@ void callback(char* topic, byte* message, unsigned int length) {       // functi
 }
 
 void go_online() {
+  WiFi.mode(WIFI_STA);
   WiFi.hostname("MQTTLEDDISPLAY");     //This changes the hostname of the ESP8266 to display neatly on the network esp on router.
   WiFi.begin(ssid, pass);
   Serial.print("---> Connecting to WiFi ");
