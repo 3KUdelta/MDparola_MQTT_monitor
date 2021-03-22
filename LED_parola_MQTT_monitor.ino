@@ -202,7 +202,7 @@ void loop(void) {
 
       P.displayReset(0);
     }
-
+    P.displayZoneText(1, actualtime, PA_CENTER, SPEED_TIME, PAUSE_TIME, PA_PRINT, PA_NO_EFFECT);
     P.displayReset(1);
   }
   else {
