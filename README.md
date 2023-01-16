@@ -1,5 +1,5 @@
 # LED matrix MQTT monitor (MD_Parola)
-Author: Marc Staehli, 2019
+Author: Marc Staehli, 2019 - updated 2023 with ESP32 Version
 
 [![LED matrix MQTT monitor](https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pictures/IMG_3180.JPG)](https://github.com/3KUdelta/MDparola_MQTT_monitor)
 
