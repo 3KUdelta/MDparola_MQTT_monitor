@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------------------------------
   Project Name : MQTT LED Monitor 1.0
   Author: Marc Stähli
-  Node MCU & 3 FC11 LED moudles 1 green, 2 blue:
+  ESP8266 Node MCU & 3 FC11 LED moudles 1 green, 2 blue:
   ------------------------------------------------------------------------------------------------------*/
 
 #include "Settings.h"              // Don't forget to set your settings!
