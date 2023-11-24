@@ -7,7 +7,7 @@ see the video: https://github.com/3KUdelta/MDparola_MQTT_monitor/blob/master/pic
 
 Main version:
 - NodeMCU V3 - using WiFi to get NTP Time and connect to MQTT broker
-- 12 LED matrix units (MAX7219)--> 3 LED units FC16 (https://www.aliexpress.com/item/32648450356.html)
+- 12 LED matrix units (MAX7219)--> 3 LED units FC16 (search in ALI for "MAX7219 dot matrix module")
 - 1 FC16 unit on the left (yellow/green) showing exact time taken from NTP servers
 - 2 FC16 units on the right (blue) scrolling MQTT messages
 - PIR sensor activating display for 2 minutes after detection
