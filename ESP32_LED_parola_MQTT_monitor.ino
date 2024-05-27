@@ -332,7 +332,7 @@ void loop(void) {
 
     //Serial.println("Timebuffer active");
 
-    sprintf(actualtime, "%02u:%02u", hour(now() + utc_timediff), minute(now() + utc_timediff));
+    sprintf(actualtime, "%02u:%02u", hour(now() + utc_timediff), minute(now());
 
     P.displayAnimate();
 
